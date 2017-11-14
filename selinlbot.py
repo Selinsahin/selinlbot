@@ -1,6 +1,8 @@
 height = [ [0,1,1,0], [0,1,1,0], [0,1,1,0], [0,1,1,0],
         [0,1,1,0] ] 
 
+deneme = 123
+
 isBlue = [ [False,False,False,False], [False,False,False,False], 
         [False,False,False,False], [False,False,False,False],
         [False,False,False,True] ] 
